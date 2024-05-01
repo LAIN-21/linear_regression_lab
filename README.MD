@@ -5,3 +5,4 @@ The selected dataset is e-commerce platform's data.
 
 Selection of best model based on an algorithm desgined to consider the coefficient of determination, AIC, BIC, and the parsimony effect (see point 2.2 for more).
 
+![alt text](https://pbs.twimg.com/profile_images/1574379327273287680/FzXHSyku_400x400.jpg)
