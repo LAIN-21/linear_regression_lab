@@ -4,3 +4,4 @@ This study employs different statistical procedures to identify the optimal mode
 The selected dataset is e-commerce platform's data.
 
 Selection of best model based on an algorithm desgined to consider the coefficient of determination, AIC, BIC, and the parsimony effect (see point 2.2 for more).
+
